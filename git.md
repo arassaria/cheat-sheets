@@ -16,10 +16,12 @@
 
 8. `git branch "git"`
 
-9. `git add git.md`
+9. `git checkout "git"`
 
-10. `git commit -m "Add git.md"`
+10. `git add git.md`
 
-11. `git push -u origin git`
+11. `git commit -m "Add git.md"`
 
-12. Created Draft Pull Request via Link `https://github.com/domko95/cheat-sheets/pull/new/git`
+12. `git push -u origin git`
+
+13. Created Draft Pull Request via Link `https://github.com/domko95/cheat-sheets/pull/new/git`
